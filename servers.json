@@ -1,0 +1,13 @@
+{
+  "servers": [
+    {
+      "name": "VanillaAssembly",
+      "description": "Лучший сервер по тематике, Хардкорное ванильное выживание.",
+      "flVersion": "forgeoptifine-1.12.2",
+      "ip": "mvax.ru",
+      "version": "1.12x - 1.19x",
+      "port": 25565
+    },
+  ],
+  "updateId": 2
+}
